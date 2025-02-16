@@ -1,0 +1,8 @@
+0|0|root
+3|0|Alpha
+7|2|Zeta
+4|3| Gamma
+1|0|Theta
+6|2|Epsilon
+5|3| Beta
+2|0|Delta
